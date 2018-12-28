@@ -1,5 +1,5 @@
 # Debugger-vscode
-Debugging code with vscode and deploying to heroku
+Debugging code with visual studio code and deploying to Heroku
 
 
 ![DebuggerImage](./assets/buggyCodeDebuggingScreenshot.png)
